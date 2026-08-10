@@ -22,9 +22,7 @@ Para comparar ambas herramientas se utilizó el sitio de práctica SauceDemo, si
 
 ## Documentación
 
-El informe completo de la PoC se encuentra en el siguiente documento:
-
-La presentación de de la PoC se encuentra en el siguiente documento:
+Informe y presentacción de la PoC se encuentran en el siguiente drive: https://drive.google.com/drive/folders/1mskSByK6cVs_xVnmscH4yisMXFr_XB3c?usp=sharing
 
 ## El informe incluye:
 
