@@ -22,9 +22,9 @@ Para comparar ambas herramientas se utilizó el sitio de práctica SauceDemo, si
 
 ## Documentación
 
-El análisis completo de la PoC se encuentra en el siguiente documento:
+El informe completo de la PoC se encuentra en el siguiente documento:
 
-
+La presentación de de la PoC se encuentra en el siguiente documento:
 
 ## El informe incluye:
 
